@@ -94,7 +94,7 @@ load_and_merge <- function(subject_file, activity_file, data_file) {
 }
 
 ## the main function to clean up and merge data in 'test' and 'train'
-## returns the tidy dataset
+## returns the tidied up dataset
 run_Analysis <- function() {
   
   subject_file <- "./test/subject_test.txt"
