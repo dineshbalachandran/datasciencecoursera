@@ -1,3 +1,5 @@
+A "space" delimited file
+
 "subj.id"			1
 					id of the person performing the activities measured
 "act.name"			varchar(20)
