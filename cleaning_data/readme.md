@@ -1,4 +1,4 @@
-### Getting and Cleaning Data project
+### Getting and cleaning data project
 
 Run the run_Analysis() function to generate the final tidy data set required by step 5 of the project.
 

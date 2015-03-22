@@ -1,6 +1,6 @@
 library(dplyr)
 
-## load the subject data to a data frame given a file path and name in 'file'
+## load the subject data to a data frame given a file path and name in the 'file' argument
 load_subject <- function (file) {
   
   subject <- read.table(file, header=FALSE)
