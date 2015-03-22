@@ -1,0 +1,138 @@
+"subj.id"			1
+					id of the person performing the activities measured
+"act.name"			varchar(20)
+					Activity performed one of the six below:
+					WALKING
+					WALKING_UPSTAIRS
+					WALKING_DOWNSTAIRS
+					SITTING
+					STANDING
+					LAYING
+"tBodyAccmeanX"		numeric
+					Mean value of all tBodyAccmeanX readings
+"tBodyAccmeanY" 	numeric
+					Mean value of all tBodyAccmeanY readings
+"tBodyAccmeanZ" 	numeric
+					Mean value of all tBodyAccmeanZ readings
+"tBodyAccstdX" 		numeric
+					Mean value of all tBodyAccstdX readings
+"tBodyAccstdY" 		numeric
+					Mean value of all tBodyAccstdY readings
+"tBodyAccstdZ" 		numeric
+					Mean value of all tBodyAccstdZ readings
+"tGravityAccmeanX" 	numeric
+					Mean value of all tGravityAccmeanX readings
+"tGravityAccmeanY"	numeric
+					Mean value of all tGravityAccmeanY readings
+"tGravityAccmeanZ" 	numeric
+					Mean value of all tGravityAccmeanZ readings
+"tGravityAccstdX" 	numeric
+					Mean value of all tGravityAccstdX readings
+"tGravityAccstdY" 	numeric
+					Mean value of all tGravityAccstdY readings
+"tGravityAccstdZ" 	numeric
+					Mean value of tGravityAccstdZ readings
+"tBodyAccJerkmeanX"	numeric
+					Mean value of tBodyAccJerkmeanX readings 
+"tBodyAccJerkmeanY"	numeric
+					Mean value of tBodyAccJerkmeanY readings 
+"tBodyAccJerkmeanZ"	numeric
+					Mean value of tBodyAccJerkmeanZ readings 
+"tBodyAccJerkstdX"	numeric
+					Mean value of tBodyAccJerkstdX readings 
+"tBodyAccJerkstdY"	numeric
+					Mean value of tBodyAccJerkstdY readings 
+"tBodyAccJerkstdZ"	numeric
+					Mean value of tBodyAccJerkstdZ readings 
+"tBodyGyromeanX"	numeric
+					Mean value of tBodyGyromeanX readings 
+"tBodyGyromeanY"	numeric
+					Mean value of tBodyGyromeanY readings 
+"tBodyGyromeanZ"	numeric
+					Mean value of tBodyGyromeanZ readings 
+"tBodyGyrostdX"	numeric
+					Mean value of tBodyGyrostdX readings 
+"tBodyGyrostdY"	numeric
+					Mean value of tBodyGyrostdY readings 
+"tBodyGyrostdZ"	numeric
+					Mean value of tBodyGyrostdZ readings 
+"tBodyGyroJerkmeanX"	numeric
+					Mean value of tBodyGyroJerkmeanX readings 
+"tBodyGyroJerkmeanY"	numeric
+					Mean value of tBodyGyroJerkmeanY readings 
+"tBodyGyroJerkmeanZ"	numeric
+					Mean value of tBodyGyroJerkmeanZ readings 
+"tBodyGyroJerkstdX"	numeric
+					Mean value of tBodyGyroJerkstdX readings 
+"tBodyGyroJerkstdY"	numeric
+					Mean value of tBodyGyroJerkstdY readings 
+"tBodyGyroJerkstdZ"	numeric
+					Mean value of tBodyGyroJerkstdZ readings 
+"tBodyAccMagmean"	numeric
+					Mean value of tBodyAccMagmean readings 
+"tBodyAccMagstd"	numeric
+					Mean value of tBodyAccMagstd readings 
+"tGravityAccMagmean"	numeric
+					Mean value of tGravityAccMagmean readings 
+"tGravityAccMagstd"	numeric
+					Mean value of tGravityAccMagstd readings 
+"tBodyAccJerkMagmean"	numeric
+					Mean value of tBodyAccJerkMagmean readings 
+"tBodyAccJerkMagstd"	numeric
+					Mean value of tBodyAccJerkMagstd readings 
+"tBodyGyroMagmean"	numeric
+					Mean value of tBodyGyroMagmean readings 
+"tBodyGyroMagstd"	numeric
+					Mean value of tBodyGyroMagstd readings 
+"tBodyGyroJerkMagmean"	numeric
+					Mean value of tBodyGyroJerkMagmean readings 
+"tBodyGyroJerkMagstd"	numeric
+					Mean value of tBodyGyroJerkMagstd readings 
+"fBodyAccmeanX"	numeric
+					Mean value of fBodyAccmeanX readings 
+"fBodyAccmeanY"	numeric
+					Mean value of fBodyAccmeanY readings 
+"fBodyAccmeanZ"	numeric
+					Mean value of fBodyAccmeanZ readings 
+"fBodyAccstdX"	numeric
+					Mean value of fBodyAccstdX readings 
+"fBodyAccstdY"	numeric
+					Mean value of fBodyAccstdY readings 
+"fBodyAccstdZ"	numeric
+					Mean value of fBodyAccstdZ readings 
+"fBodyAccJerkmeanX"	numeric
+					Mean value of fBodyAccJerkmeanX readings 
+"fBodyAccJerkmeanY"	numeric
+					Mean value of fBodyAccJerkmeanY readings 
+"fBodyAccJerkmeanZ"	numeric
+					Mean value of fBodyAccJerkmeanZ readings 
+"fBodyAccJerkstdX"	numeric
+					Mean value of fBodyAccJerkstdX readings 
+"fBodyAccJerkstdY"	numeric
+					Mean value of fBodyAccJerkstdY readings 
+"fBodyAccJerkstdZ"	numeric
+					Mean value of fBodyAccJerkstdZ readings 
+"fBodyGyromeanX"	numeric
+					Mean value of fBodyGyromeanX readings 
+"fBodyGyromeanY"	numeric
+					Mean value of fBodyGyromeanY readings 
+"fBodyGyromeanZ"	numeric
+					Mean value of fBodyGyromeanZ readings 
+"fBodyGyrostdX"	numeric
+					Mean value of fBodyGyrostdX readings 
+"fBodyGyrostdY"	numeric
+					Mean value of fBodyGyrostdY readings 
+"fBodyGyrostdZ"	numeric
+					Mean value of fBodyGyrostdZ readings 
+"fBodyAccMagmean"	numeric
+					Mean value of fBodyAccMagmean readings 
+"fBodyAccMagstd"	numeric
+					Mean value of fBodyAccMagstd readings 
+"fBodyBodyGyroMagmean"	numeric
+					Mean value of fBodyBodyGyroMagmean readings 
+"fBodyBodyGyroMagstd"	numeric
+					Mean value of fBodyBodyGyroMagstd readings 
+"fBodyBodyGyroJerkMagmean"	numeric
+					Mean value of fBodyBodyGyroJerkMagmean readings 
+"fBodyBodyGyroJerkMagstd"	numeric
+					Mean value of fBodyBodyGyroJerkMagstd readings
