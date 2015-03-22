@@ -50,11 +50,11 @@
 					Mean value of tBodyGyromeanY readings 
 "tBodyGyromeanZ"	numeric
 					Mean value of tBodyGyromeanZ readings 
-"tBodyGyrostdX"	numeric
+"tBodyGyrostdX"		numeric
 					Mean value of tBodyGyrostdX readings 
-"tBodyGyrostdY"	numeric
+"tBodyGyrostdY"		numeric
 					Mean value of tBodyGyrostdY readings 
-"tBodyGyrostdZ"	numeric
+"tBodyGyrostdZ"		numeric
 					Mean value of tBodyGyrostdZ readings 
 "tBodyGyroJerkmeanX"	numeric
 					Mean value of tBodyGyroJerkmeanX readings 
@@ -88,17 +88,17 @@
 					Mean value of tBodyGyroJerkMagmean readings 
 "tBodyGyroJerkMagstd"	numeric
 					Mean value of tBodyGyroJerkMagstd readings 
-"fBodyAccmeanX"	numeric
+"fBodyAccmeanX"		numeric
 					Mean value of fBodyAccmeanX readings 
-"fBodyAccmeanY"	numeric
+"fBodyAccmeanY"		numeric
 					Mean value of fBodyAccmeanY readings 
-"fBodyAccmeanZ"	numeric
+"fBodyAccmeanZ"		numeric
 					Mean value of fBodyAccmeanZ readings 
-"fBodyAccstdX"	numeric
+"fBodyAccstdX"		numeric
 					Mean value of fBodyAccstdX readings 
-"fBodyAccstdY"	numeric
+"fBodyAccstdY"		numeric
 					Mean value of fBodyAccstdY readings 
-"fBodyAccstdZ"	numeric
+"fBodyAccstdZ"		numeric
 					Mean value of fBodyAccstdZ readings 
 "fBodyAccJerkmeanX"	numeric
 					Mean value of fBodyAccJerkmeanX readings 
@@ -118,11 +118,11 @@
 					Mean value of fBodyGyromeanY readings 
 "fBodyGyromeanZ"	numeric
 					Mean value of fBodyGyromeanZ readings 
-"fBodyGyrostdX"	numeric
+"fBodyGyrostdX"		numeric
 					Mean value of fBodyGyrostdX readings 
-"fBodyGyrostdY"	numeric
+"fBodyGyrostdY"		numeric
 					Mean value of fBodyGyrostdY readings 
-"fBodyGyrostdZ"	numeric
+"fBodyGyrostdZ"		numeric
 					Mean value of fBodyGyrostdZ readings 
 "fBodyAccMagmean"	numeric
 					Mean value of fBodyAccMagmean readings 
