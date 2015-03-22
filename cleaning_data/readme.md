@@ -8,4 +8,4 @@ Also the "features.txt" should be present in the working directory. This provide
 
 The functions are called twice, the first to load the “test” and then to load the “train” data. cbind is used to merge subject, activity and the data measurements together. rbind is used to merge test and train data sets.
 
-Finally, the tidy_data function, groups the data by subject and activity using the group_by dplyr package function and then using summarise_each to calculate the mean of the measurements.
+Finally, the tidy_data function, groups the data by subject and activity using the group_by dplyr package function and then using summarise_each to calculate the mean of the measurements to generate the tidy data set required by the project.
